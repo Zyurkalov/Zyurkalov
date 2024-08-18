@@ -1,5 +1,5 @@
 ## Hi, I'm Alexander 👋
-<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <!--
 **Zyurkalov/Zyurkalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

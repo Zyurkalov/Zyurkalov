@@ -1,6 +1,10 @@
 ## Hi, I'm Alexander 👋
+<!--
 <iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+-->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **Zyurkalov/Zyurkalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 About me
-📫 Contacts
+🌱 About me:
+📫 Contacts:

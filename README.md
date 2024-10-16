@@ -1,27 +1,42 @@
-## Hi, I'm Alexander 👋
-<!--
-<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <!--     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/> -->
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3500&color=FFF&center=true&vCenter=true&width=450&lines=Hi+👋..;I'm+Alex,+designer..;..and+web+developer;Wellcome+to+my+Github!+🤖+;" alt="Typing SVG"/>
+    </h1>
 </div>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+#### Languages
 
-![typescript](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=Gtypescript&logoColor=white)
-<!--
-**Zyurkalov/Zyurkalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github](https://img.shields.io/badge/JavaScript-262627?style=for-the-badge&logo=JavaScript&logoColor=#FFCE00) ![github](https://img.shields.io/badge/TypeScript-186BFF?style=for-the-badge&logo=TypeScript&logoColor=white) 
 
-Here are some ideas to get you started:
+#### Front-End Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 About me:
-📫 Contacts: 
+![github](https://img.shields.io/badge/html5-262627?style=for-the-badge&logo=html5&logoColor=E34F26) ![github](https://img.shields.io/badge/sass-262627?style=for-the-badge&logo=sass&logoColor=E6526F) ![github](https://img.shields.io/badge/css3-186BFF?style=for-the-badge&logo=css3&logoColor=white) ![github](https://img.shields.io/badge/React-186BFF?style=for-the-badge&logo=React&logoColor=white) ![github](https://img.shields.io/badge/Redux-186BFF?style=for-the-badge&logo=Redux&logoColor=white) ![github](https://img.shields.io/badge/mui-186BFF?style=for-the-badge&logo=mui&logoColor=white) ![github](https://img.shields.io/badge/webpack-186BFF?style=for-the-badge&logo=webpack&logoColor=white) ![github](https://img.shields.io/badge/jest-262627?style=for-the-badge&logo=jest&logoColor=C21325)
+
+#### Backend-End Development
+
+![github](https://img.shields.io/badge/nestjs-262627?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![github](https://img.shields.io/badge/mongodb-262627?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+#### Design Tools
+
+![github](https://img.shields.io/badge/photoshop-186BFF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![github](https://img.shields.io/badge/illustrator-262627?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![github](https://img.shields.io/badge/tilda-262627?style=for-the-badge&logo=tildapublishing&logoColor=white)
+
+#### Studying
+
+![github](https://img.shields.io/badge/webgpu-186BFF?style=for-the-badge&logo=webgpu&logoColor=white)
+![github](https://img.shields.io/badge/threejs-262627?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+## 👨‍💻 About me:
+Звать меня Александр Зюркалов. Окончил Уральскую Архитектурную Академию (УралГАХА), в степени бакалавра графического дизайна. Фрилансер и веб разработчик.
+Люблю читать книги по личностному развитию и программированию. 
+Последние что я прочитал были «Атомные привычки» - Джеймс Клир и «Джедайские техники» - Максим Дорофеев.
+Из других интересов у меня музыка, стрит арт и видеоигры Civilization и DarkSouls. Хозяин двух котов
+
+## 📫 Contacts: 
+
+![github](https://img.shields.io/badge/telegram-186BFF?style=for-the-badge&logo=telegram&logoColor=white)
+![github](https://img.shields.io/badge/gmail-262627?style=for-the-badge&logo=gmail&logoColor=EA4335)
+![github](https://img.shields.io/badge/pinterest-262627?style=for-the-badge&logo=pinterest&logoColor=BD081C)

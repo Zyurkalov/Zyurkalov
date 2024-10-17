@@ -11,7 +11,14 @@
 
 #### Front-End Development
 
-![github](https://img.shields.io/badge/html5-262627?style=for-the-badge&logo=html5&logoColor=E34F26) ![github](https://img.shields.io/badge/sass-262627?style=for-the-badge&logo=sass&logoColor=E6526F) ![github](https://img.shields.io/badge/css3-186BFF?style=for-the-badge&logo=css3&logoColor=white) ![github](https://img.shields.io/badge/React-186BFF?style=for-the-badge&logo=React&logoColor=white) ![github](https://img.shields.io/badge/Redux-186BFF?style=for-the-badge&logo=Redux&logoColor=white) ![github](https://img.shields.io/badge/mui-186BFF?style=for-the-badge&logo=mui&logoColor=white) ![github](https://img.shields.io/badge/webpack-186BFF?style=for-the-badge&logo=webpack&logoColor=white) ![github](https://img.shields.io/badge/jest-262627?style=for-the-badge&logo=jest&logoColor=C21325)
+![github](https://img.shields.io/badge/html5-262627?style=for-the-badge&logo=html5&logoColor=E34F26)
+![github](https://img.shields.io/badge/sass-262627?style=for-the-badge&logo=sass&logoColor=E6526F)
+![github](https://img.shields.io/badge/css3-186BFF?style=for-the-badge&logo=css3&logoColor=white)
+![github](https://img.shields.io/badge/React-186BFF?style=for-the-badge&logo=React&logoColor=white)
+![github](https://img.shields.io/badge/Redux-186BFF?style=for-the-badge&logo=Redux&logoColor=white)
+![github](https://img.shields.io/badge/mui-186BFF?style=for-the-badge&logo=mui&logoColor=white)
+![github](https://img.shields.io/badge/webpack-186BFF?style=for-the-badge&logo=webpack&logoColor=white)
+![github](https://img.shields.io/badge/jest-262627?style=for-the-badge&logo=jest&logoColor=C21325)
 
 #### Backend-End Development
 
@@ -20,8 +27,9 @@
 
 #### Design Tools
 
-![github](https://img.shields.io/badge/photoshop-186BFF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![github](https://img.shields.io/badge/photoshop-262627?style=for-the-badge&logo=adobephotoshop&logoColor=186BFF)
 ![github](https://img.shields.io/badge/illustrator-262627?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![github](https://img.shields.io/badge/figma-262627?style=for-the-badge&logo=figma&logoColor=white)
 ![github](https://img.shields.io/badge/tilda-262627?style=for-the-badge&logo=tildapublishing&logoColor=white)
 
 #### Studying

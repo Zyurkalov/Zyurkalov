@@ -7,17 +7,17 @@
 
 #### Languages
 
-![github](https://img.shields.io/badge/JavaScript-262627?style=for-the-badge&logo=JavaScript&logoColor=#FFCE00) ![github](https://img.shields.io/badge/TypeScript-186BFF?style=for-the-badge&logo=TypeScript&logoColor=white) 
+![github](https://img.shields.io/badge/JavaScript-262627?style=for-the-badge&logo=JavaScript&logoColor=#FFCE00) ![github](https://img.shields.io/badge/TypeScript-262627?style=for-the-badge&logo=TypeScript&logoColor=186BFF) 
 
 #### Front-End Development
 
 ![github](https://img.shields.io/badge/html5-262627?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![github](https://img.shields.io/badge/sass-262627?style=for-the-badge&logo=sass&logoColor=E6526F)
-![github](https://img.shields.io/badge/css3-186BFF?style=for-the-badge&logo=css3&logoColor=white)
-![github](https://img.shields.io/badge/React-186BFF?style=for-the-badge&logo=React&logoColor=white)
-![github](https://img.shields.io/badge/Redux-186BFF?style=for-the-badge&logo=Redux&logoColor=white)
-![github](https://img.shields.io/badge/mui-186BFF?style=for-the-badge&logo=mui&logoColor=white)
-![github](https://img.shields.io/badge/webpack-186BFF?style=for-the-badge&logo=webpack&logoColor=white)
+![github](https://img.shields.io/badge/css3-262627?style=for-the-badge&logo=css3&logoColor=186BFF)
+![github](https://img.shields.io/badge/React-262627?style=for-the-badge&logo=React&logoColor=white)
+![github](https://img.shields.io/badge/Redux-262627?style=for-the-badge&logo=Redux&logoColor=white)
+![github](https://img.shields.io/badge/mui-262627?style=for-the-badge&logo=mui&logoColor=186BFF)
+![github](https://img.shields.io/badge/webpack-262627?style=for-the-badge&logo=webpack&logoColor=186BFF)
 ![github](https://img.shields.io/badge/jest-262627?style=for-the-badge&logo=jest&logoColor=C21325)
 
 #### Backend-End Development

@@ -13,12 +13,17 @@
 
 ![github](https://img.shields.io/badge/html5-262627?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![github](https://img.shields.io/badge/sass-262627?style=for-the-badge&logo=sass&logoColor=E6526F)
-![github](https://img.shields.io/badge/css3-262627?style=for-the-badge&logo=css3&logoColor=186BFF)
 ![github](https://img.shields.io/badge/React-262627?style=for-the-badge&logo=React&logoColor=white)
 ![github](https://img.shields.io/badge/Redux-262627?style=for-the-badge&logo=Redux&logoColor=white)
+![github](https://img.shields.io/badge/Zustand-262627?style=for-the-badge&logo=zustand&logoColor=white)
 ![github](https://img.shields.io/badge/mui-262627?style=for-the-badge&logo=mui&logoColor=186BFF)
-![github](https://img.shields.io/badge/webpack-262627?style=for-the-badge&logo=webpack&logoColor=186BFF)
+![github](https://img.shields.io/badge/AntDesign-262627?style=for-the-badge&logo=antdesign&logoColor=white)
 ![github](https://img.shields.io/badge/jest-262627?style=for-the-badge&logo=jest&logoColor=C21325)
+![github](https://img.shields.io/badge/Vite-262627?style=for-the-badge&logo=vite&logoColor=186BFF)
+![github](https://img.shields.io/badge/TanStack%20Query-262627?style=for-the-badge&logo=tanstack&logoColor=white)
+![github](https://img.shields.io/badge/TanStack%20Router-262627?style=for-the-badge&logo=tanstack&logoColor=white)
+![github](https://img.shields.io/badge/i18next-262627?style=for-the-badge&logo=i18next&logoColor=white)
+
 
 #### Backend-End Development
 
@@ -34,7 +39,7 @@
 
 #### Studying
 ![github](https://img.shields.io/badge/ReactNative-262627?style=for-the-badge&logo=React&logoColor=white)
-![github](https://img.shields.io/badge/Three.js-262627?style=for-the-badge&logo=Threejs&logoColor=white)
+![github](https://img.shields.io/badge/Rust-262627?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ## 👨‍💻 About me:
